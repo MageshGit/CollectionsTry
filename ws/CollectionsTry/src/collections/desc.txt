@@ -1,0 +1,14 @@
+Collection is an interface. 
+
+Available methods are
+1. size() - returns the size in int
+2. isEmpty() - returns true if the list/queue/set has no elements with it else false
+3. contains(Object o) - returns true if the collection contains the element else false
+4. iterator()- has methods like 
+	hasNext()- returns true if collection has valid elements
+	next()- gives the control to access the next item
+	remove()
+5. add(Element e)/remove(Element e) - adds/removes the given element to the collection
+6. addAll(Collection c)/removeAll(Collection)- adds/removes the given collection to the base collection
+7. contains(Object o)/containsAll(Collection c) - returns true if the collection has mentioned object/collection in the base one
+8. clear()- clears all the elements in the collection, the collection will be empty after this operation
