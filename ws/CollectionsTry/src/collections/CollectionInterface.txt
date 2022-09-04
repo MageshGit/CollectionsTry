@@ -12,3 +12,10 @@ Available methods are
 6. addAll(Collection c)/removeAll(Collection)- adds/removes the given collection to the base collection
 7. contains(Object o)/containsAll(Collection c) - returns true if the collection has mentioned object/collection in the base one
 8. clear()- clears all the elements in the collection, the collection will be empty after this operation
+
+
+Collection is an interface.
+Collection extents Iterable interface.
+Collection interface is being extended by interfaces 1. List
+														2. Set
+															3. Queue

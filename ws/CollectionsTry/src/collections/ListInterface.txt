@@ -1,0 +1,7 @@
+List interface is extended by Collection interface.
+List interface is implemented by classes 1. ArrayList
+											2. LinkedList
+												3. Vector (extended by Stack)
+												
+List is an ordered collection of elements which may contain duplicates.
+													
